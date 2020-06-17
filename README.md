@@ -1,6 +1,21 @@
 # ToDo_App
 
-A new Flutter project.
+<p>A basic to do app with CRUD Operations.
+CRUD stands for
+  <br>
+  C - Create
+  <br>
+  R - Read
+  <br>
+  U - Update
+  <br>
+  D - Delete</p>
+  
+<p>Hive is used in the app which serves the function of offline database
+<br>
+  For official documentation <a href="https://docs.hivedb.dev/#/" target="_blank">Click Here</a></p>
+
+  
 
 ## Getting Started
 
