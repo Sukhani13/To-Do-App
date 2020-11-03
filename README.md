@@ -11,7 +11,7 @@ CRUD stands for
   <br>
   D - Delete</p>
   
-<p>Hive is used in the app which serves the function of offline database
+<p>Hive is used in the app which serves the function of database.
 <br>
   For official documentation <a href="https://docs.hivedb.dev/#/" target="_blank">Click Here</a></p>
 
